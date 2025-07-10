@@ -1,0 +1,11 @@
+a=10
+b=11
+c=3
+c+=a
+print(c)
+c-=b
+print(c)
+c*=a
+print(c)
+c/=b
+print(c)
